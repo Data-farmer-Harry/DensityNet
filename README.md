@@ -5,6 +5,7 @@ This project builds machine learning models to predict density profiles from MD 
 It supports a feed-forward neural network and an XGBoost regressor, plus scripts to
 evaluate errors and generate plots for single cases and summary heatmaps.
 
+![image](https://github.com/Data-farmer-Harry/DensityNet/blob/main/figure/error/width_40.0_temp_300.0.png)
 ## What you are doing here
 - Parse raw density files into a single training dataset with width and temperature as inputs.
 - Train NN and XGBoost regressors to predict density vs Coord1 in different temperature and width.
