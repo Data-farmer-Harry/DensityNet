@@ -1,0 +1,5 @@
+{
+  "use_log_y": false,
+  "objective": "reg:squarederror",
+  "device": "cuda"
+}
